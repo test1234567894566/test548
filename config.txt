@@ -3,4 +3,4 @@ prefix=7
 game=Type 7help
 stayinchannel=true
 songinstatus=false
-token=NTgyNDk4OTMzMzczMTQwOTky.XOu2vQ.pzI0hGqsjFCOcydTHOa93itbHZA
+token=NTgyNDk4OTMzMzczMTQwOTky.XOusbQ.c-2Z-KqsfYVzEdjXWyvVAEVl2Yo
